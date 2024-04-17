@@ -3,8 +3,8 @@ Coursework implementing pairwise classification task of Authorship Verification
 
 ## Train & Save Models
 **Relevant files**
-- `src/av_model_one.ipynb`
-- `src/av_model_two.ipynb`
+- `src/AV_SVM_TRAIN.ipynb`
+- `src/AV_LSTM_TRAIN.ipynb`
 - `data/train.csv`
 
 Open the notebooks in `Google Colab` as well as the training (zip files will need extracting)
@@ -13,10 +13,11 @@ Open the notebooks in `Google Colab` as well as the training (zip files will nee
 
 ## Evaluating the models
 **Relevant files**
-- `src/evaluate_models_dev.ipynb`
+- `src/AV_SVM_EVAL.ipynb`
+- `src/AV_LSTM_EVAL.ipynb`
 - `data/dev.csv`
 
-Open the notebook `evaluate_models_dev.ipynb` in google colab and import BOTH model .zip files and the dev data set
+Open the notebook corresponding to the model you are testing. Upload the dev dataset as well as the .zip file of your chosen model
 
 `Run the notebook`
 
