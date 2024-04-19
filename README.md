@@ -3,7 +3,7 @@ Coursework implementing pairwise classification task of Authorship Verification
 
 ## Train & Save Models
 **Relevant files**
-- `src/AV_SVM_TRAIN.ipynb`
+- `src/AV_CNN_TRAIN.ipynb`
 - `src/AV_LSTM_TRAIN.ipynb`
 - `data/train.csv`
 
@@ -13,7 +13,7 @@ Open the notebooks in `Google Colab` as well as the training (zip files will nee
 
 ## Evaluating the models
 **Relevant files**
-- `src/AV_SVM_EVAL.ipynb`
+- `src/AV_CNN_EVAL.ipynb`
 - `src/AV_LSTM_EVAL.ipynb`
 - `data/dev.csv`
 
