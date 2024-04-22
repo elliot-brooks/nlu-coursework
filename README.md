@@ -3,8 +3,8 @@ Coursework implementing pairwise classification task of Authorship Verification
 
 ## Training and Saving Models
 **Relevant files**
-- `src/AV_CNN_TRAIN.ipynb`
-- `src/AV_LSTM_TRAIN.ipynb`
+- `AV_CNN_TRAIN.ipynb`
+- `AV_LSTM_TRAIN.ipynb`
 
 **How to use**
 - Open Notebook
@@ -14,8 +14,8 @@ Coursework implementing pairwise classification task of Authorship Verification
 
 ## Evaluating Models
 **Relevant files**
-- `src/AV_CNN_EVAL.ipynb`
-- `src/AV_LSTM_EVAL.ipynb`
+- `AV_CNN_EVAL.ipynb`
+- `AV_LSTM_EVAL.ipynb`
 
 **How to Use**
 - Open Notebook
