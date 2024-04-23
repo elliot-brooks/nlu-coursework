@@ -33,3 +33,8 @@ Coursework implementing pairwise classification task of Authorship Verification
 - Upload **BOTH** the CNN and the LSTM model
 - Run the notebook
 - Download predictions to local machine
+
+## Pre Trained Model Links
+🔗[**BERT + CNN**](https://github.com/elliot-brooks/nlu-coursework/blob/main/models/CNN_MODEL.zip)
+
+🔗[**BERT + LSTM**](https://github.com/elliot-brooks/nlu-coursework/blob/main/models/LSTM_MODEL.zip)
